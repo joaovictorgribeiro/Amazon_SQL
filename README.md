@@ -28,7 +28,6 @@ The goal of this project is to analyze sales data and provide key insights into 
 
 ## Project Structure
 The repository is structured as follows:
-- **data/**: Contains raw sales data files.
 - **sql/**: Includes SQL scripts for data cleaning, feature engineering, and analysis.
 - **README.md**: Provides an overview of the project, including objectives, features, and structure.
 
