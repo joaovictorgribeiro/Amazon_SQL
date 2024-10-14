@@ -1,5 +1,5 @@
 
-<img src="(https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Amazon_logo.svg/603px-Amazon_logo.svg.png)" alt="Amazon's Logo">
+<img src="(Amazon-Logo.png)" alt="Amazon's Logo">
 
 # Sales Analysis SQL Project
 
