@@ -1,5 +1,5 @@
 
-<img src="(Amazon-Logo.png)" alt="Amazon's Logo">
+<img src="(https://github.com/joaovictorgribeiro/Amazon_SQL/blob/main/Amazon-Logo.png)" alt="Amazon's Logo">
 
 # Sales Analysis SQL Project
 
