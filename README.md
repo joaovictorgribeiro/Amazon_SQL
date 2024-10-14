@@ -1,5 +1,5 @@
 
-![Image Description](ooo)
+![Amazon's Logo](https://github.com/joaovictorgribeiro/Amazon_SQL/blob/main/Amazon-Logo.png)
 
 # Sales Analysis SQL Project
 
